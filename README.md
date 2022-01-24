@@ -9,7 +9,7 @@ https://heropy.blog/2018/10/28/regexp/
 ## 역할
 
 - 문자 검색 (search)
-- 문제 대체 (replace)
+- 문자 대체 (replace)
 - 문자 추출 (extract)
 
 ## 테스트 사이트
